@@ -87,7 +87,7 @@ const Todo = () => {
                     <div>
                         <h1 style={{ color: "white", marginBottom: "40px", marginTop: "-50px", fontSize: "5rem", position: "fixed", marginLeft: "-120px" }}>
                             <ReactTypingEffect speed={100} eraseSpeed={100} eraseDelay={2000} typingDelay={100}
-                                text={["ToDoList With React By Yashan.."]} />
+                                text={["ToDoList With React.."]} />
                         </h1>
                     </div>
                     <figure style={{ marginTop: "50px" }}>
